@@ -1,5 +1,5 @@
 # Surface Pro 6 Hackintosh EFI
-### OpenCore 1.0.4
+### OpenCore 1.0.4 [Source](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.4)
 
 ![SP6](SP6.jpeg)
 
