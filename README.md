@@ -1,5 +1,7 @@
 # SurfacePro6-Hackintosh-EFI
 
+![SP6](SP6.jpeg)
+
 EFI for Hackintosh Monterey on Surface Pro 6 (i5, 8GB RAM).  
 **ONLY TESTED WITH MONTEREY (USE AT YOUR OWN RISK)**
 
