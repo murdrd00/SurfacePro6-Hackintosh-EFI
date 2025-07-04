@@ -22,8 +22,8 @@ EFI for Hackintosh Monterey on Surface Pro 6 (i5, 8GB RAM).
 ## How to Use
 1. Create a macOS Monterey installer USB.
 2. Copy the entire EFI folder to your EFI partition.
-3. Configure your SerialNumber, MLB, and SystemUUID using ([CorpNewt GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)).
-4. Set ROM to your Wi-Fi USB MAC address.
+## 3. Configure your SerialNumber, MLB, and SystemUUID using ([CorpNewt GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)). (Use MacBookPro15,2)
+4. Set ROM to your Wi-Fi USB's MAC address.
 5. Boot using OpenCore. For more info, see the ([OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)).
 
 ## Notes
